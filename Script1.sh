@@ -3,6 +3,9 @@
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
-hiii
+hi
+ dev1
 i m archana
 hello
+i m seeta
+main
